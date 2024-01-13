@@ -1,4 +1,3 @@
-# 13.github.io
 <!DOCTYPE html>
 <html lang="ru">
 <head>
@@ -69,7 +68,7 @@
         <h1>Онлайн магазин</h1>
         <img src="https://cdn-icons-png.flaticon.com/512/3595/3595455.png">
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Assusantium ipsum magni, molestias</p>
-        <button>id="buy">Купить</button>
+        <button id="buy">Купить</button>
     </div>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
 </body>
